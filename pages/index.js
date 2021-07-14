@@ -7,7 +7,7 @@ import {
   OrkutNostalgicIconSet,
 } from "../src/lib/AlurakutCommons";
 import { ProfileRelationsBoxWrapper } from "../src/components/ProfileRelations";
-
+// comit 23:38
 function ProfileSidebar(propriedades) {
   return (
     <Box as="aside">
