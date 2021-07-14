@@ -53,7 +53,7 @@ const Box = styled.div`
     padding: 8px 12px;
     color: #ffffff;
     border-radius: 10000px;
-    background-color: #6f92bb;
+    background-color: #b7b9ba;
   }
 `;
 

@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
 
 }
   body {
-    background: #D9E6F6;
+    background-image: url("https://mcdn.wallpapersafari.com/medium/71/85/ngaT5B.jpg");
     font-family: sans-serif
   }
 
